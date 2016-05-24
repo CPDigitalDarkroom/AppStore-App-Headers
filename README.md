@@ -6,6 +6,8 @@ Headers for various AppStore Apps. If you need headers for another app let me kn
  - [v70.0](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Facebook%20Messenger/70.0/Fb.Messenger_70_0.zip?raw=true)
 - Google Translate
  - [v5.0.30026](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Google%20Translate/5.0.30026/G.Translate_5_0_30026.zip?raw=true)
+- iDownloadBlog
+ - [v1.2.0](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/iDownloadBlog/1.2.0/iDownloadBlog_1_2_0.zip?raw=true)
 - Instagram
  - [v7.21](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Instagram/7.21/Instagram_7_21.zip?raw=true)
  - [v8.0](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Instagram/8.0/Instagram_8_0.zip?raw=true)
