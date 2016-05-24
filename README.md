@@ -9,7 +9,7 @@ Headers for various AppStore Apps. If you need headers for another app let me kn
 - Instagram
  - [v7.21](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Instagram/7.21/Instagram_7_21.zip?raw=true)
  - [v8.0](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Instagram/8.0/Instagram_8_0.zip?raw=true)
- - [v8.0](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Instagram/8.1/Instagram_8_1.zip?raw=true)
+ - [v8.1](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Instagram/8.1/Instagram_8_1.zip?raw=true)
 - Netflix
  - [v8.5.0](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Netflix/8.5.0/Netflix_8_5_0.zip?raw=true)
 - Tweetbot
