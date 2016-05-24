@@ -1,5 +1,5 @@
 # AppStore-App-Headers
-Headers for various AppStore Apps
+Headers for various AppStore Apps. If you need headers for another app let me know and I will add it.
 
 # Available Headers
 - Facebook Messenger
@@ -9,6 +9,9 @@ Headers for various AppStore Apps
 - Instagram
  - [v7.21](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Instagram/7.21/Instagram_7_21.zip?raw=true)
  - [v8.0](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Instagram/8.0/Instagram_8_0.zip?raw=true)
+ - [v8.0](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Instagram/8.1/Instagram_8_1.zip?raw=true)
+- Netflix
+ - [v8.5.0](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Netflix/8.5.0/Netflix_8_5_0.zip?raw=true)
 - Tweetbot
  - [v4.3.2](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Tweetbot/4.3.2/Tweetbot_4_3_2.zip?raw=true)
 - Twitter
@@ -17,6 +20,7 @@ Headers for various AppStore Apps
  - [v2.16.2](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/WhatsApp/2.16.2/WhatsApp_2_16_2.zip?raw=true)
 - YikYak
  - [v3.4.1](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/YikYak/3.4.1/YikYak_3_4_1.zip?raw=true)
+ - [v3.5](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/YikYak/3.5/YikYak_3_5.zip?raw=true)
 - YouTube
  - [v11.18](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/YouTube/11.18/YouTube_11_18.zip?raw=true)
 
