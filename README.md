@@ -14,10 +14,16 @@ Headers for various AppStore Apps. If you need headers for another app let me kn
  - [v8.1](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Instagram/8.1/Instagram_8_1.zip?raw=true)
 - Netflix
  - [v8.5.0](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Netflix/8.5.0/Netflix_8_5_0.zip?raw=true)
+- Pandora
+ - [v7.2.1](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Pandora/7.2.1/Pandora_7_2_1.zip?raw=true)
 - Tweetbot
  - [v4.3.2](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Tweetbot/4.3.2/Tweetbot_4_3_2.zip?raw=true)
 - Twitter
  - [v6.52](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Twitter/6.52/Twitter_6_52.zip?raw=true)
+- Uber (Client)
+ - [v2.135.2](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Uber%20(Client)/2.135.2/UberClient_2_135_2.zip?raw=true)
+- Uber (Partner)
+ - [v3.104.2](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Uber%20(Partner)/3.104.2/UberPartner_3_104_2.zip?raw=true)
 - WhatsApp
  - [v2.16.2](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/WhatsApp/2.16.2/WhatsApp_2_16_2.zip?raw=true)
 - YikYak
