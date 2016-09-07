@@ -12,14 +12,19 @@ Headers for various AppStore Apps. If you need headers for another app let me kn
  - [v7.21](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Instagram/7.21/Instagram_7_21.zip?raw=true)
  - [v8.0](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Instagram/8.0/Instagram_8_0.zip?raw=true)
  - [v8.1](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Instagram/8.1/Instagram_8_1.zip?raw=true)
+ - [v8.2](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Instagram/8.2/Instagram_8_2.zip?raw=true)
+ - [v9.21](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Instagram/9.21/Instagram_9_21.zip?raw=true)
 - Netflix
  - [v8.5.0](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Netflix/8.5.0/Netflix_8_5_0.zip?raw=true)
 - Pandora
  - [v7.2.1](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Pandora/7.2.1/Pandora_7_2_1.zip?raw=true)
+- Skype
+ - [v6.20](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Skype/6.20/Skype_6_20.zip?raw=true)
 - Tweetbot
  - [v4.3.2](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Tweetbot/4.3.2/Tweetbot_4_3_2.zip?raw=true)
 - Twitter
  - [v6.52](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Twitter/6.52/Twitter_6_52.zip?raw=true)
+ - [v6.61](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Twitter/6.61/Twitter_6_61.zip?raw=true)
 - Uber (Client)
  - [v2.135.2](https://github.com/CPDigitalDarkroom/AppStore-App-Headers/blob/master/Uber%20(Client)/2.135.2/UberClient_2_135_2.zip?raw=true)
 - Uber (Partner)
