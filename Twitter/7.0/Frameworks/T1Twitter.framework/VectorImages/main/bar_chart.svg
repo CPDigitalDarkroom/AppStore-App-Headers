@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="44" height="72" viewBox="0 0 44 72" enable-background="new 0 0 44 72" xml:space="preserve">
-<g id="bounds"><rect opacity="0" width="44" height="72"/></g>
-<g id="icon">
-<path d="M37,56.431c-2.209,0-4-1.79-4-4V24.333c0-2.21,1.791-4,4-4s4,1.79,4,4v28.098C41,54.641,39.209,56.431,37,56.431z"/>
-<path d="M22,56.431c-2.209,0-4-1.79-4-4V15c0-2.21,1.791-4,4-4s4,1.79,4,4v37.431C26,54.641,24.209,56.431,22,56.431z"/>
-<path d="M7,56.431c-2.209,0-4-1.79-4-4V35c0-2.21,1.791-4,4-4s4,1.79,4,4v17.431C11,54.641,9.209,56.431,7,56.431z"/>
-</g>
-</svg>

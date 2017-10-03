@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="58" height="72" viewBox="0 0 58 72" enable-background="new 0 0 58 72" xml:space="preserve">
-<g id="bounds"><rect opacity="0" width="58" height="72"/></g>
-<g id="icon">
-<path d="M52,48h-5V21c0-1.657-1.344-3-3-3H17v-5c0-1.657-1.344-3-3-3c-1.658,0-3,1.343-3,3v5H6c-1.658,0-3,1.343-3,3s1.342,3,3,3h5v27c0,1.657,1.342,3,3,3h27v5c0,1.657,1.342,3,3,3c1.656,0,3-1.343,3-3v-5h5c1.656,0,3-1.343,3-3S53.657,48,52,48z M41,48H18c-0.553,0-1-0.447-1-1V24h23c0.553,0,1,0.447,1,1V48z"/>
-</g>
-</svg>
