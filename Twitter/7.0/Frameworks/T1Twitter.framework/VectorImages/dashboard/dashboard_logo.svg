@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="72" height="72" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+<g id="bounds"><rect opacity="0" width="72" height="72"/></g>
+<g id="icon">
+<circle fill="#AFEED5" cx="36" cy="36" r="7.364"/>
+<path d="M60.052,23.742L63,9l-14.742,2.948C44.579,10.068,40.416,9,36,9C21.088,9,9,21.088,9,36c0,14.912,12.088,27,27,27s27-12.088,27-27C63,31.584,61.932,27.421,60.052,23.742z M36,54.159c-10.029,0-18.159-8.13-18.159-18.159c0-10.029,8.13-18.159,18.159-18.159S54.159,25.971,54.159,36C54.159,46.029,46.029,54.159,36,54.159z"/>
+</g>
+</svg>

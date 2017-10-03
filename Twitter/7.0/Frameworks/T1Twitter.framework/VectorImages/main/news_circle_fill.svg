@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="60" height="72" viewBox="0 0 60 72" enable-background="new 0 0 60 72" xml:space="preserve">
+<g id="bounds"><rect opacity="0" width="60" height="72"/></g>
+<g id="icon">
+<path d="M29.917,9c-14.888,0-27,12.112-27,27s12.112,27,27,27s27-12.112,27-27S44.805,9,29.917,9z M41.954,46.037c0,1.1-0.9,2-2,2H19.879c-1.1,0-2-0.9-2-2V25.962c0-1.1,0.9-2,2-2h20.075c1.1,0,2,0.9,2,2C41.954,25.962,41.954,46.037,41.954,46.037z"/>
+<rect x="22.242" y="34.561" width="5.756" height="1.919"/>
+<rect x="22.242" y="38.398" width="5.756" height="1.919"/>
+<rect x="22.242" y="42.236" width="5.756" height="1.919"/>
+<rect x="22.242" y="27.845" width="15.35" height="3.838"/>
+<polygon points="30.894,44.155 37.592,44.155 37.592,34.561 30.876,34.561"/>
+</g>
+</svg>

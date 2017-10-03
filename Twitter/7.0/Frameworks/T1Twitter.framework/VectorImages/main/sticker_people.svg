@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="60" height="72" viewBox="0 0 60 72" enable-background="new 0 0 60 72" xml:space="preserve">
+<g id="bounds"><rect opacity="0" width="60" height="72"/></g>
+<g id="icon">
+<circle fill="#FFCC4D" cx="29.999" cy="36.001" r="27"/>
+<path fill="#664500" d="M29.999,40.5c-5.433,0-9.039-0.632-13.498-1.5c-1.019-0.195-3.001,0-3.001,3.001c0,5.999,6.894,13.501,16.499,13.501C39.606,55.501,46.5,47.999,46.5,42c0-3.001-1.982-3.198-3.001-3.001C39.04,39.868,35.434,40.5,29.999,40.5z"/>
+<path fill="#FFFFFF" d="M16.501,42c0,0,4.498,1.5,13.498,1.5S43.499,42,43.499,42s-3.001,5.999-13.501,5.999S16.501,42,16.501,42z"/>
+<ellipse fill="#664500" cx="21.788" cy="29.616" rx="3.402" ry="4.904"/>
+<ellipse fill="#664500" cx="38.119" cy="29.616" rx="3.402" ry="4.904"/>
+</g>
+</svg>

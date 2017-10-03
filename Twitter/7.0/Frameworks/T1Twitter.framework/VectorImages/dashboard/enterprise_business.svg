@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="50px" height="40px" viewBox="0 0 50 40" enable-background="new 0 0 50 40" xml:space="preserve">
+<g>
+	<g>
+		<rect x="27" y="5.5" fill="#292F33" width="1.5" height="2.5"/>
+	</g>
+	<g>
+		<rect x="22" y="5.5" fill="#292F33" width="1.5" height="2.5"/>
+	</g>
+	<rect x="18" y="2.5" fill="#1DA1F2" width="14" height="3.5"/>
+	<g>
+		<rect x="17" y="8.5" fill="#FFFFFF" width="16" height="27.5"/>
+		<path fill="#8899A6" d="M15.5,7v30.5h19V7H15.5z M33,36H17V8.5h16V36z"/>
+	</g>
+	<g>
+		<rect x="22.5" y="32.5" fill="#FFFFFF" width="4.75" height="3.5"/>
+		<path fill="#AAB8C2" d="M21,31v6.5h7.75V31H21z M27.25,36H22.5v-3.5h4.75V36z"/>
+	</g>
+	<g>
+		<rect x="20" y="27.25" fill="#FFFFFF" width="2.25" height="1.25"/>
+		<rect x="27.75" y="27.25" fill="#FFFFFF" width="2.25" height="1.25"/>
+		<rect x="23.75" y="27.25" fill="#FFFFFF" width="2.5" height="1.25"/>
+		<path fill="#AAB8C2" d="M18.5,30h13v-4.25h-13V30z M20,27.25h2.25v1.25H20V27.25z M30,28.5h-2.25v-1.25H30V28.5z M26.25,28.5h-2.5
+			v-1.25h2.5V28.5z"/>
+		<rect x="20" y="22" fill="#FFFFFF" width="2.25" height="1.25"/>
+		<rect x="23.75" y="22" fill="#FFFFFF" width="2.5" height="1.25"/>
+		<rect x="27.75" y="22" fill="#FFFFFF" width="2.25" height="1.25"/>
+		<path fill="#AAB8C2" d="M18.5,24.75h13V20.5h-13V24.75z M20,22h2.25v1.25H20V22z M30,23.25h-2.25V22H30V23.25z M26.25,23.25h-2.5
+			V22h2.5V23.25z"/>
+		<rect x="23.75" y="16.75" fill="#FFFFFF" width="2.5" height="1.25"/>
+		<rect x="27.75" y="16.75" fill="#FFFFFF" width="2.25" height="1.25"/>
+		<rect x="20" y="16.75" fill="#FFFFFF" width="2.25" height="1.25"/>
+		<path fill="#AAB8C2" d="M18.5,19.5h13v-4.25h-13V19.5z M20,16.75h2.25V18H20V16.75z M30,18h-2.25v-1.25H30V18z M26.25,18h-2.5
+			v-1.25h2.5V18z"/>
+		<rect x="23.75" y="11.5" fill="#FFFFFF" width="2.5" height="1.25"/>
+		<rect x="27.75" y="11.5" fill="#FFFFFF" width="2.25" height="1.25"/>
+		<rect x="20" y="11.5" fill="#FFFFFF" width="2.25" height="1.25"/>
+		<path fill="#AAB8C2" d="M18.5,10v4.25h13V10H18.5z M26.25,11.5v1.25h-2.5V11.5H26.25z M22.25,12.75H20V11.5h2.25V12.75z M30,12.75
+			h-2.25V11.5H30V12.75z"/>
+	</g>
+	<g>
+		<rect x="10" y="36" fill="#292F33" width="30" height="1.5"/>
+	</g>
+</g>
+</svg>

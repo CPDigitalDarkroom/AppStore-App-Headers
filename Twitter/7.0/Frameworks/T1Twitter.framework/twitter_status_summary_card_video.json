@@ -1,0 +1,347 @@
+{
+    "created_at": "Thu Feb 23 22:33:03 +0000 2017",
+    "id": 834893865639301121,
+    "id_str": "834893865639301121",
+    "full_text": "Discover lands that radiate with color, culture and rich history in South America",
+    "truncated": false,
+    "display_text_range": [0, 105],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [{
+                 "url": "https:\/\/t.co\/wBZyNPOsBo",
+                 "expanded_url": "https:\/\/cards.twitter.com\/cards\/byisy\/3gxwq",
+                 "display_url": "cards.twitter.com\/cards\/byisy\/3g\u2026",
+                 "indices": [82, 105]
+                 }]
+    },
+    "source": "\u003ca href=\"https:\/\/ads.twitter.com\" rel=\"nofollow\"\u003eTwitter Ads\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 02 20:41:42 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Where the conversation begins. Follow for breaking news, special reports, http://t.co/u15NNuLyJH homepage links and RTs of our journalists.",
+        "entities": {
+            "description": {
+                "urls": [
+                         {
+                         "display_url": "NYTimes.com",
+                         "expanded_url": "http://NYTimes.com",
+                         "indices": [
+                                     74,
+                                     96
+                                     ],
+                         "url": "http://t.co/u15NNuLyJH"
+                         }
+                         ]
+            },
+            "url": {
+                "urls": [
+                         {
+                         "display_url": "nytimes.com",
+                         "expanded_url": "http://www.nytimes.com/",
+                         "indices": [
+                                     0,
+                                     22
+                                     ],
+                         "url": "http://t.co/ahvuWqicF9"
+                         }
+                         ]
+            }
+        },
+        "favourites_count": 648,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 13830656,
+        "following": false,
+        "friends_count": 978,
+        "geo_enabled": false,
+        "has_custom_timelines": false,
+        "id": 807095,
+        "id_str": "807095",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 152198,
+        "location": "New York City",
+        "media_count": 2032,
+        "name": "The New York Times",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1355346050",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2044921128/finals_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2044921128/finals_normal.png",
+        "profile_link_color": "607696",
+        "profile_location": null,
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nytimes",
+        "statuses_count": 155021,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/ahvuWqicF9",
+        "utc_offset": -18000,
+        "verified": true
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 56,
+    "favorite_count": 178,
+    "reply_count": 12,
+    "conversation_id": 834893865639301121,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "possibly_sensitive_editable": true,
+    "scopes": {
+        "followers": false
+    },
+    "promoted_content": {
+        "impression_id": "2558a81e19c097d4",
+        "disclosure_type": "promoted",
+        "disclosure_text": "",
+        "social_context": [],
+        "experiment_values": {
+            "website_card_variation": "0"
+        },
+        "advertiser_name": "Ammmmmy11",
+        "advertiser": {
+            "id": 20086450,
+            "id_str": "20086450",
+            "has_no_screen_name": false
+        },
+        "promoted_context": {
+            "impression_id": "2558a81e19c097d4",
+            "animations": []
+        }
+    },
+    "card": {
+        "name": "2586390716:promo_video_website",
+        "url": "https:\/\/t.co\/wBZyNPOsBo",
+        "card_type_url": "http:\/\/card-type-url-is-deprecated.invalid",
+        "binding_values": {
+            "prefetch_markup": {
+                "type": "STRING",
+                "string_value": "false"
+            },
+            "_forward_card_height_": {
+                "type": "STRING",
+                "string_value": "140"
+            },
+            "website_assets": {
+                "type": "STRING",
+                "string_value": "\u007b\"ios\" : \u007b\"wifi\" : [], \"cellular\" : []\u007d, \"android\" : \u007b\"wifi\" : [], \"cellular\" : []\u007d\u007d"
+            },
+            "prefetch_assets": {
+                "type": "STRING",
+                "string_value": "true"
+            },
+            "vanity_url": {
+                "type": "STRING",
+                "string_value": "hollandamerica.com"
+            },
+            "website_dest_url": {
+                "type": "STRING",
+                "string_value": "http:\/\/www.hollandamerica.com\/pageByName\/Resp.action?requestPage=SouthAmerica&legacy=true#cid=hal_social_paidsocial_awareness_twitter_southamericaawareness_March17_ad1"
+            },
+            "website_url": {
+                "type": "STRING",
+                "string_value": "http:\/\/www.hollandamerica.com\/pageByName\/Resp.action?requestPage=SouthAmerica&legacy=true#cid=hal_social_paidsocial_awareness_twitter_southamericaawareness_March17_ad1"
+            },
+            "cta_read_more": {
+                "type": "STRING",
+                "string_value": "1"
+            },
+            "_card_data": {
+                "type": "STRING",
+                "string_value": "\u007b\"card_id\" : 2956239, \"promotion_card_type\" : 16"
+            },
+            "title": {
+                "type": "STRING",
+                "string_value": "Cruise to South America"
+            },
+            "site": {
+                "type": "USER",
+                "user_value": {
+                    "id_str": "20086450",
+                    "path": []
+                },
+                "scribe_key": "publisher_id"
+            },
+            "card_url": {
+                "type": "STRING",
+                "string_value": "https:\/\/t.co\/wBZyNPOsBo",
+                "scribe_key": "card_url"
+            },
+            "player_url": {
+                "type": "STRING",
+                "string_value": "https:\/\/video.twimg.com\/amplify_video\/vmap\/837787019237605376.vmap"
+            },
+            "player_stream_content_type": {
+                "type": "STRING",
+                "string_value": "video\/mp4; codecs=\"avc1.42E01E, mp4a.40.2\""
+            },
+            "player_stream_url": {
+                "type": "STRING",
+                "string_value": "https:\/\/video.twimg.com\/amplify_video\/vmap\/837787019237605376.vmap"
+            },
+            "player_height": {
+                "type": "STRING",
+                "string_value": "360"
+            },
+            "player_width": {
+                "type": "STRING",
+                "string_value": "640"
+            },
+            "content_duration_seconds": {
+                "type": "STRING",
+                "string_value": "60"
+            },
+            "player_image_small": {
+                "type": "IMAGE",
+                "image_value": {
+                    "url": "https:\/\/pbs.twimg.com\/amplify_video_thumb\/837787019237605376\/img\/gvEaXUv0AETA6BbR.jpg",
+                    "width": 640,
+                    "height": 360,
+                    "alt": null
+                }
+            },
+            "player_image": {
+                "type": "IMAGE",
+                "image_value": {
+                    "url": "https:\/\/pbs.twimg.com\/amplify_video_thumb\/837787019237605376\/img\/gvEaXUv0AETA6BbR.jpg",
+                    "width": 640,
+                    "height": 360,
+                    "alt": null
+                }
+            },
+            "player_image_large": {
+                "type": "IMAGE",
+                "image_value": {
+                    "url": "https:\/\/pbs.twimg.com\/amplify_video_thumb\/837787019237605376\/img\/gvEaXUv0AETA6BbR.jpg",
+                    "width": 640,
+                    "height": 360,
+                    "alt": null
+                }
+            },
+            "player_image_x_large": {
+                "type": "IMAGE",
+                "image_value": {
+                    "url": "https:\/\/pbs.twimg.com\/amplify_video_thumb\/837787019237605376\/img\/gvEaXUv0AETA6BbR.jpg",
+                    "width": 640,
+                    "height": 360,
+                    "alt": null
+                }
+            }
+        },
+        "users": {
+            "20086450": {
+                "id": 20086450,
+                "id_str": "20086450",
+                "name": "Ammmmmy11",
+                "screen_name": "HALcruises",
+                "location": "At sea or in ports worldwide",
+                "description": "Sail the world! 14 #ships; 500+ #cruises; 400+ #ports; 100+ countries; 143 years! Learn more about our newest ship Koningsdam: https:\/\/t.co\/zqh17kwboR",
+                "url": "https:\/\/t.co\/mk35xgNy89",
+                "entities": {
+                    "url": {
+                        "urls": [{
+                                 "url": "https:\/\/t.co\/mk35xgNy89",
+                                 "expanded_url": "http:\/\/www.hollandamerica.com",
+                                 "display_url": "hollandamerica.com",
+                                 "indices": [0, 23]
+                                 }]
+                    },
+                    "description": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [{
+                                 "url": "https:\/\/t.co\/zqh17kwboR",
+                                 "expanded_url": "http:\/\/bit.ly\/1AAbbzT",
+                                 "display_url": "bit.ly\/1AAbbzT",
+                                 "indices": [127, 150]
+                                 }]
+                    }
+                },
+                "protected": false,
+                "followers_count": 90458,
+                "fast_followers_count": 0,
+                "normal_followers_count": 90458,
+                "friends_count": 14330,
+                "listed_count": 1564,
+                "created_at": "Wed Feb 04 20:02:19 +0000 2009",
+                "favourites_count": 17048,
+                "utc_offset": -25200,
+                "time_zone": "Pacific Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 25539,
+                "media_count": 5249,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "071274",
+                "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/201391514\/HAL_Web_Twitter_BG-2.5.jpg",
+                "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/201391514\/HAL_Web_Twitter_BG-2.5.jpg",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/684470215837487104\/uV-Iq7DY_normal.png",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/684470215837487104\/uV-Iq7DY_normal.png",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/20086450\/1481840885",
+                "profile_link_color": "0C3F92",
+                "profile_sidebar_border_color": "5ED4DC",
+                "profile_sidebar_fill_color": "95E8EC",
+                "profile_text_color": "3C3940",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "pinned_tweet_ids": [824282934400217090],
+                "has_custom_timelines": true,
+                "can_media_tag": true,
+                "followed_by": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "blocking": false,
+                "blocked_by": false,
+                "profile_interstitial_type": "",
+                "business_profile_state": "none",
+                "translator_type": "none",
+                "has_no_screen_name": false
+            }
+        },
+        "card_platform": {
+            "platform": {
+                "device": {
+                    "name": "iPhone",
+                    "version": "13"
+                },
+                "audience": {
+                    "name": "production",
+                    "bucket": null
+                }
+            }
+        }
+    },
+    "lang": "en",
+    "supplemental_language": null
+}

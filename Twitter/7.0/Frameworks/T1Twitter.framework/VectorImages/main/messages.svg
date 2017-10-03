@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="58" height="72" viewBox="0 0 58 72" enable-background="new 0 0 58 72" xml:space="preserve">
+<g id="bounds"><rect opacity="0" width="58" height="72"/></g>
+<g id="icon">
+<polygon points="46,15 12,15 29,31 	"/>
+<path d="M53,16c-0.021,0.021-21.929,21.17-21.929,21.17C30.492,37.724,29.746,38,29,38s-1.492-0.276-2.071-0.83c0,0-21.908-21.148-21.929-21.17c-1.138,0.908-2,2-2,4v38c0,1.185,0.697,2.259,1.779,2.74C5.172,60.915,5.587,61,6,61c0.727,0,1.445-0.265,2.007-0.771L19,50h31c2.804,0,5-2.196,5-5V20C55,18,54.138,16.909,53,16z"/>
+</g>
+</svg>

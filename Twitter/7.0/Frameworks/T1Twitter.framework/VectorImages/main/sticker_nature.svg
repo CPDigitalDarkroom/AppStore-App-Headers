@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="57" height="72" viewBox="0 0 57 72" enable-background="new 0 0 57 72" xml:space="preserve">
+<g id="bounds"><rect opacity="0" width="57" height="72"/></g>
+<g id="icon">
+<circle fill="#E3E4C9" cx="12" cy="18" r="9"/>
+<circle fill="#272B2B" cx="12" cy="18" r="6"/>
+<circle fill="#E3E4C9" cx="45" cy="18" r="9"/>
+<circle fill="#272B2B" cx="45" cy="18" r="6"/>
+<path fill="#E3E4C9" d="M28.5,9C4.962,9,3,42,3,42c0,8.808,6.748,15.485,18.324,17.416C22.966,61.589,25.565,63,28.5,63c2.934,0,5.532-1.411,7.176-3.584C47.251,57.485,54,50.808,54,42C54,42,52.039,9,28.5,9z"/>
+<circle fill="#DD2E44" cx="28.5" cy="54.422" r="6"/>
+<path fill="#AAAD9A" d="M28.425,37.228c0,0-16.5,5.53-16.5,10.5s4.03,9,9,9c3.132,0,5.888-1.601,7.5-4.028c1.611,2.427,4.368,4.028,7.5,4.028c4.97,0,9-4.03,9-9S28.425,37.228,28.425,37.228z"/>
+<path fill="#272B2B" d="M35.736,44.728c-2.438-1.5-12.185-1.5-14.623,0c-2.437,1.5,4.874,6,7.312,6S38.174,46.228,35.736,44.728z"/>
+<ellipse fill="#272B2B" cx="20.543" cy="33.722" rx="3.284" ry="4.734"/>
+<ellipse fill="#272B2B" cx="36.307" cy="33.722" rx="3.284" ry="4.734"/>
+</g>
+</svg>
